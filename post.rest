@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+//Aqui se diligencian los datos y se envian como petición mediante Send Request//
+{
+  "content": "",
+  "title": "",
+  "Date": "",
+  "important": true
+}
